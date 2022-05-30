@@ -19,4 +19,4 @@ cd cosmjs-patch
 
 ## Note
 
-This will allow you to use the messages already included in the `cosmjs` lib, but it won't work for specific messages such as `RegisterErc20` that is Evmos specific.
+This will allow you to use the messages already included in the `cosmjs` lib, but it won't work for messages such as `RegisterErc20` that is Evmos specific.
